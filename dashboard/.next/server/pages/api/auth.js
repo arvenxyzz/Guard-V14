@@ -59,7 +59,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \***********************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"guardI":{"token":"MTQ1ODcyNDY4Mjg1MjIwODc5NA.Gklxd9.Dg-TBht94BdU4jR2vNMaH8tcgZBWwG8Hareelw","voiceChannelID":"1457459565791678546","activity":"Arven Was Here","status":"idle"},"guardII":{"token":"MTQ1ODcyNDgwNTA1MzI1MTcxNg.G9R5RD.fmMigIi06wDBWYJp-Sy2TWF6PO_KIpHRikiLgw","voiceChannelID":"1457459565791678546","activity":"DevCode Was Here","status":"idle"},"mongoURL":"mongodb://localhost:27017/guardbot","guildID":"1457386138149847051","logChannels":{"channel":"kanal-log","role":"rol-log","guard":"guard-log","emoji":"emoji-log","sticker":"sticker-log","webhook":"webhook-log","ban":"ban-log","kick":"kick-log"},"ownerIDs":["284790439679361025"],"password":"websifre","prefix":"."}');
+module.exports = JSON.parse('{"guardI":{"token":"","voiceChannelID":"1457459565791678546","activity":"Arven Was Here","status":"idle"},"guardII":{"token":"","voiceChannelID":"1457459565791678546","activity":"DevCode Was Here","status":"idle"},"mongoURL":"mongodb://localhost:27017/guardbot","guildID":"1457386138149847051","logChannels":{"channel":"kanal-log","role":"rol-log","guard":"guard-log","emoji":"emoji-log","sticker":"sticker-log","webhook":"webhook-log","ban":"ban-log","kick":"kick-log"},"ownerIDs":["284790439679361025"],"password":"websifre","prefix":"."}');
 
 /***/ })
 
