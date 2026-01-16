@@ -1,0 +1,34 @@
+{
+    "name": "discord-guard-bot",
+    "version": "1.0.0",
+    "description": "Discord Guard Bot - V14",
+    "main": "arven.js",
+    "scripts": {
+        "guard1": "node Guard-I.js",
+        "guard2": "node Guard-II.js",
+        "start": "node Guard-I.js & node Guard-II.js",
+        "dev": "nodemon Guard-I.js",
+        "dashboard": "cd dashboard && npx run dev"
+    },
+    "dependencies": {
+        "@discordjs/opus": "^0.9.0",
+        "@discordjs/voice": "^0.18.0",
+        "autoprefixer": "^10.4.16",
+        "canvas": "^2.11.2",
+        "discord.js": "^14.14.1",
+        "libsodium-wrappers": "^0.7.13",
+        "lucide-react": "^0.294.0",
+        "mongoose": "^8.0.3",
+        "next": "14.0.4",
+        "postcss": "^8.4.32",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "recharts": "^2.10.3",
+        "tailwindcss": "^3.4.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.2"
+    },
+    "author": "DevCode",
+    "license": "ISC"
+}
